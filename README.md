@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am Kaustubh Miglani
+
+<a href="https://www.codechef.com/users/kira_1234/">
+  <img align="left" alt="Kaustubh's CodeChef" width="30px" height="30px" src="https://miro.medium.com/max/416/1*1W0-bbmt4iiEpp_pPrS0VQ.png" />
+</a>
+<a href="https://codeforces.com/profile/Kira_1234">
+  <img align="left" alt="Kaustubh's Codeforces" width="30px" height="30px" src="https://lh3.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=s180-rw" />
+</a>
+</br>
+</br>
 
 <!--
 **KaustubhMiglani/KaustubhMiglani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
