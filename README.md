@@ -9,6 +9,21 @@
 </br>
 </br>
 
+
+## I WORK ON 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖++</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png">
+      </td>
+   </tbody>
+</table>
 <!--
 **KaustubhMiglani/KaustubhMiglani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
